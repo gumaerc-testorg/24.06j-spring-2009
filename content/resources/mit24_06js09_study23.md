@@ -2,8 +2,12 @@
 content_type: resource
 description: Study guide for a reading assignment on public health versus individual
   rights.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-06j-bioethics-spring-2009/239e0d1eaa94b8f93a74565e99adc6da_MIT24_06Js09_study23.pdf
+file: /media/courses/24-06j-bioethics-spring-2009/239e0d1eaa94b8f93a74565e99adc6da_MIT24_06Js09_study23.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: Public Health vs. Individual Rights
 uid: 239e0d1e-aa94-b8f9-3a74-565e99adc6da
