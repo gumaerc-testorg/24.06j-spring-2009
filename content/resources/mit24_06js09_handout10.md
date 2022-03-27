@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 02691e7c-3d71-8c57-0282-897aed8b1db2
 resourcetype: Document
 title: 'Bioethics Session 9 Handout: Thomson on Abortion'
 uid: 522f1e77-d21f-2378-edd6-c27ce4887135

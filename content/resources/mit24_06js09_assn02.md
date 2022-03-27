@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6ba933fe-f965-d0be-35e7-708867847095
 resourcetype: Document
 title: 'Second Paper Topic '
 uid: 1220f80b-ad74-1362-c590-76f0763aacaa

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 02691e7c-3d71-8c57-0282-897aed8b1db2
 resourcetype: Document
 title: Public Health vs. Individual Rights
 uid: 239e0d1e-aa94-b8f9-3a74-565e99adc6da

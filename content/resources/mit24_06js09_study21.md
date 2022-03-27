@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 02691e7c-3d71-8c57-0282-897aed8b1db2
 resourcetype: Document
 title: Health Care Rationing
 uid: eccd1dc3-9c4e-8bf2-5441-acdea8b16011

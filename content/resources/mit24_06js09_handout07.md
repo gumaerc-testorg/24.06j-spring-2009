@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 02691e7c-3d71-8c57-0282-897aed8b1db2
 resourcetype: Document
 title: "Bioethics Lecture 6 Handout \u2013 Personal Identity"
 uid: 5946448b-d1de-65fe-ceaf-e426b9935d7f

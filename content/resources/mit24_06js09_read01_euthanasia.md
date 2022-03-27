@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 4b5c9b6b-da82-81b4-6600-72c9dfd02b27
 resourcetype: Document
 title: "Euthanasia\u2014Degenerated Sympathy"
 uid: 2fd93e42-35c6-563d-6fae-ef3593571b8c

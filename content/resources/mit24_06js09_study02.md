@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 02691e7c-3d71-8c57-0282-897aed8b1db2
 resourcetype: Document
 title: From Euthanasia to Assisted Suicide
 uid: 9b2e3145-6b4f-0455-31e9-0472337a1498

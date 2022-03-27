@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 02691e7c-3d71-8c57-0282-897aed8b1db2
 resourcetype: Document
 title: 'Bioethics Session 3 Handout: Arguments'
 uid: 2d3b9aab-d105-c36d-8fe3-12ea83b2e979

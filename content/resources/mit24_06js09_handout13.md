@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 02691e7c-3d71-8c57-0282-897aed8b1db2
 resourcetype: Document
 title: 'Bioethics Session 13 Handout: Non-Identity II'
 uid: b80237a2-ea4b-080d-e88b-a2dda191dafc

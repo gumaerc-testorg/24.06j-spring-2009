@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6ba933fe-f965-d0be-35e7-708867847095
 resourcetype: Document
 title: Final Paper Topics
 uid: 2fb38936-0278-e024-b74e-d1c7f0291b45
