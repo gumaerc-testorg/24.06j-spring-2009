@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the writing assignments of the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -22,7 +23,7 @@ DUE DATES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Paper 1 ([PDF]({{< baseurl >}}/resources/mit24_06js09_assn01))
+Paper 1 ({{% resource_link 8ccc428d-b443-a773-c634-5841059a7dcc "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Ses #6
@@ -31,7 +32,7 @@ Ses #6
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Paper 2 ([PDF]({{< baseurl >}}/resources/mit24_06js09_assn02))
+Paper 2 ({{% resource_link 1220f80b-ad74-1362-c590-76f0763aacaa "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Ses #11
@@ -40,7 +41,7 @@ Ses #11
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Paper 2 rewrite ([PDF]({{< baseurl >}}/resources/mit24_06js09_assn02_rewrite))
+Paper 2 rewrite ({{% resource_link b259d3eb-6490-081d-2935-afe00347482f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Ses #15
@@ -49,7 +50,7 @@ Ses #15
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Paper 3 ([PDF]({{< baseurl >}}/resources/mit24_06js09_assn03))
+Paper 3 ({{% resource_link 7c97ddf0-5685-9a28-91e0-aeefa2947614 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Ses #19
@@ -58,7 +59,7 @@ Ses #19
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Final paper ([PDF]({{< baseurl >}}/resources/mit24_06js09_assn04_final))
+Final paper ({{% resource_link 2fb38936-0278-e024-b74e-d1c7f0291b45 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Ses #26

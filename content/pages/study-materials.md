@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides study guides for the weekly readings and handouts
+  summarizing key lecture topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -56,7 +58,7 @@ L2
 From euthanasia to assisted suicide
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_06js09_study02))
+({{% resource_link 9b2e3145-6b4f-0455-31e9-0472337a1498 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -74,7 +76,7 @@ Killing for the greater good I
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_06js09_handout03))
+({{% resource_link 2d3b9aab-d105-c36d-8fe3-12ea83b2e979 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -89,7 +91,7 @@ Killing for the greater good II
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_06js09_handout04))
+({{% resource_link c23313e0-7243-17b5-5b95-8bbb769284cf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,7 +103,7 @@ L5
 Withdrawal of life support
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_06js09_study05))
+({{% resource_link 9fe1b17f-0696-26a6-7750-765340cac788 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -122,7 +124,7 @@ L6
 Neonatal dilemmas
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_06js09_study06))
+({{% resource_link d93f33c4-10a4-4c67-415b-9927d8843631 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -140,7 +142,7 @@ Are people organisms?
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_06js09_handout07))
+({{% resource_link 5946448b-d1de-65fe-ceaf-e426b9935d7f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -155,7 +157,7 @@ The ethics of abortion I
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_06js09_handout08))
+({{% resource_link 0853e036-40ed-2401-a4bd-f4c2a3f9aed2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -167,7 +169,7 @@ L9
 History and abortion
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_06js09_study09))
+({{% resource_link e9f3f717-4603-d97a-9df5-dd9abfc12be2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -185,7 +187,7 @@ The ethics of abortion II
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_06js09_handout10))
+({{% resource_link 522f1e77-d21f-2378-edd6-c27ce4887135 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -197,7 +199,7 @@ L11
 Obligations of pregnancy
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_06js09_study11))
+({{% resource_link fea4aac2-cd8b-fe61-e1b2-b7c167a98ad7 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -221,7 +223,7 @@ Procreation and future people I
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_06js09_handout12))
+({{% resource_link 95555b81-400d-9112-d089-5895b5d4682a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -236,7 +238,7 @@ Procreation and future people II
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_06js09_handout13))
+({{% resource_link b80237a2-ea4b-080d-e88b-a2dda191dafc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -248,7 +250,7 @@ L14
 Eugenics and its legacies
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_06js09_study14))
+({{% resource_link 9f72a6aa-94f6-a11d-ee4c-42b65288d65d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -263,7 +265,7 @@ L15
 Genetic engineering
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_06js09_study15))
+({{% resource_link 2b4244c6-5695-b984-ef93-2ec82942f35a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -281,7 +283,7 @@ Slippery slopes
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_06js09_handout16))
+({{% resource_link 41c36f47-6dcd-0095-56ef-140f5741e272 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -293,7 +295,7 @@ L17
 Enhancing or cheating
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_06js09_study17))
+({{% resource_link 6310fb1b-7108-b74b-37e4-1b8bb3632dc0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -314,7 +316,7 @@ L18
 The political economy of organs
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_06js09_study18))
+({{% resource_link 6a136b0b-acc2-1a6e-a1ae-8fd238e32135 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -332,7 +334,7 @@ Valuing lives I
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_06js09_handout19))
+({{% resource_link c8851746-2f3a-7127-27ad-cb03411ad6d9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -347,7 +349,7 @@ Valuing lives II
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_06js09_handout20))
+({{% resource_link 6d8defea-ee5b-58fa-9e21-61bd21ccf7c3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -359,7 +361,7 @@ L21
 Rationing health care
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_06js09_study21))
+({{% resource_link eccd1dc3-9c4e-8bf2-5441-acdea8b16011 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -395,7 +397,7 @@ L23
 Public health vs. individual rights?
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_06js09_study23))
+({{% resource_link 239e0d1e-aa94-b8f9-3a74-565e99adc6da "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -410,7 +412,7 @@ L24
 Public health and individual responsibility
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_06js09_study24))
+({{% resource_link fc58252c-f916-cc4d-d7d3-32c7797cff8a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -428,7 +430,7 @@ Self binding
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_06js09_handout25))
+({{% resource_link 4b726117-cfd6-55de-3a6e-5e6669b2956b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
