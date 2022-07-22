@@ -4,6 +4,7 @@ description: Handout summarizing key lecture topics on hedonic utilitarianism.
 file: /courses/24-06j-bioethics-spring-2009/c88517462f3a712727adcb03411ad6d9_MIT24_06Js09_handout19.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: "Utilitarianism I \u2013 Handout"
 uid: c8851746-2f3a-7127-27ad-cb03411ad6d9
 ---
 Handout summarizing key lecture topics on hedonic utilitarianism.
-

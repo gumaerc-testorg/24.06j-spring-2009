@@ -5,6 +5,7 @@ file: /courses/24-06j-bioethics-spring-2009/b259d3eb6490081d2935afe00347482f_MIT
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Instructions for the Rewrite of Paper 2
 uid: b259d3eb-6490-081d-2935-afe00347482f
 ---
 Instructions for an assignment to rewrite a paper on bioethics.
-
