@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, requirements, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ffe9ee2f-13fe-dbf0-5810-ef1d04a41672
 ---
@@ -45,7 +49,7 @@ The TAs will follow standard procedure in dealing with late papers—a third of 
 
 ### Plagiarism
 
-As you surely know, all your writing must be your own. This means that anything quoted verbatim must appear within " " quotation marks and be accompanied by a footnote that identifies its source. You must use properly formatted [footnotes](http://libguides.mit.edu/citing). It also means that you may not paraphrase a person's writing without making it explicit that you are doing so: changing the words does not make it your writing. And it means that whenever another person's insights or ideas appear in your paper you must credit that person in a footnote. If you are in any doubt about whether something you are writing amounts to plagiarism, talk about it with your TA before you hand in your paper. You should also review MIT's Academic Integrity Handbook. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/academicintegrity/handbook/handbook.pdf))
+As you surely know, all your writing must be your own. This means that anything quoted verbatim must appear within " " quotation marks and be accompanied by a footnote that identifies its source. You must use properly formatted [footnotes](http://libguides.mit.edu/citing). It also means that you may not paraphrase a person's writing without making it explicit that you are doing so: changing the words does not make it your writing. And it means that whenever another person's insights or ideas appear in your paper you must credit that person in a footnote. If you are in any doubt about whether something you are writing amounts to plagiarism, talk about it with your TA before you hand in your paper. You should also review MIT's Academic Integrity Handbook. ([PDF](http://web.mit.edu/academicintegrity/handbook/handbook.pdf))
 
 Grading
 -------
