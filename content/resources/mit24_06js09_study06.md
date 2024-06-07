@@ -3,6 +3,7 @@ content_type: resource
 description: 'Study guide for a reading assignment on end-of-life decision making
   at the start of life: the management of babies born prematurely.'
 file: /courses/24-06j-bioethics-spring-2009/d93f33c410a44c67415b9927d8843631_MIT24_06Js09_study06.pdf
+file_size: 69530
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

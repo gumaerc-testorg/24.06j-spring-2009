@@ -2,6 +2,7 @@
 content_type: resource
 description: Handout summarizing key lecture topics on arguments, validity, and soundness.
 file: /courses/24-06j-bioethics-spring-2009/2d3b9aabd105c36d8fe312ea83b2e979_MIT24_06Js09_handout03.pdf
+file_size: 59728
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
