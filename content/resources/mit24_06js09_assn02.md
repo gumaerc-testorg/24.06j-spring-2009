@@ -2,6 +2,7 @@
 content_type: resource
 description: General guidelines and potential topics for a writing assignment on bioethics.
 file: /courses/24-06j-bioethics-spring-2009/1220f80bad741362c59076f0763aacaa_MIT24_06Js09_assn02.pdf
+file_size: 92656
 file_type: application/pdf
 learning_resource_types:
 - Assignments

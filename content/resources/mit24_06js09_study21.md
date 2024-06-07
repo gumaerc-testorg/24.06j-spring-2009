@@ -3,6 +3,7 @@ content_type: resource
 description: Study guide for a reading assignment on  the intersection between utilitarianism
   and health policy.
 file: /courses/24-06j-bioethics-spring-2009/eccd1dc39c4e8bf25441acdea8b16011_MIT24_06Js09_study21.pdf
+file_size: 65207
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
