@@ -3,6 +3,7 @@ content_type: resource
 description: Study guide for a reading assignment on ethical issues associated with
   organ transplantation.
 file: /courses/24-06j-bioethics-spring-2009/6a136b0bacc21a6ea1ae8fd238e32135_MIT24_06Js09_study18.pdf
+file_size: 64016
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

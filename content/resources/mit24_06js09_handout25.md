@@ -3,6 +3,7 @@ content_type: resource
 description: Handout summarizing key lecture topics on responsibility, levels of risk,
   and fault for behavior.
 file: /courses/24-06j-bioethics-spring-2009/4b726117cfd655de3a6e5e6669b2956b_MIT24_06Js09_handout25.pdf
+file_size: 62607
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
