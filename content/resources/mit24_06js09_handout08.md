@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handout summarizing key lecture topics on the ethics of abortion.
-file: /courses/24-06j-bioethics-spring-2009/0853e03640ed2401a4bdf4c2a3f9aed2_MIT24_06Js09_handout08.pdf
+file: /ol-ocw-studio-app/courses/24-06j-bioethics-spring-2009/0853e03640ed2401a4bdf4c2a3f9aed2_MIT24_06Js09_handout08.pdf
 file_size: 62481
 file_type: application/pdf
 learning_resource_types: []

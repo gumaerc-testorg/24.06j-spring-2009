@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Study guide for a reading assignment on genetic engineering.
-file: /courses/24-06j-bioethics-spring-2009/2b4244c65695b984ef932ec82942f35a_MIT24_06Js09_study15.pdf
+file: /ol-ocw-studio-app/courses/24-06j-bioethics-spring-2009/2b4244c65695b984ef932ec82942f35a_MIT24_06Js09_study15.pdf
 file_size: 59632
 file_type: application/pdf
 learning_resource_types: []
