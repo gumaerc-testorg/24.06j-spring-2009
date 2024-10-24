@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handout summarizing key lecture topics on slippery-slope arguments.
-file: /courses/24-06j-bioethics-spring-2009/41c36f476dcd009556ef140f5741e272_MIT24_06Js09_handout16.pdf
+file: /ol-ocw-studio-app/courses/24-06j-bioethics-spring-2009/41c36f476dcd009556ef140f5741e272_MIT24_06Js09_handout16.pdf
 file_size: 46393
 file_type: application/pdf
 learning_resource_types: []
