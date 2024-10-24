@@ -2,7 +2,7 @@
 content_type: resource
 description: Handout summarizing key lecture topics on hedonic utilitarianism, value,
   and rightness.
-file: /courses/24-06j-bioethics-spring-2009/6d8defeaee5b58fa9e2161bd21ccf7c3_MIT24_06Js09_handout20.pdf
+file: /ol-ocw-studio-app/courses/24-06j-bioethics-spring-2009/6d8defeaee5b58fa9e2161bd21ccf7c3_MIT24_06Js09_handout20.pdf
 file_size: 64347
 file_type: application/pdf
 learning_resource_types: []
