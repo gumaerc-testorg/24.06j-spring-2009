@@ -2,7 +2,7 @@
 content_type: resource
 description: Handout summarizing key lecture topics on prohibitions, absolutism, qualified
   absolutism, and the doctrine of double-effect.
-file: /ol-ocw-studio-app/courses/24-06j-bioethics-spring-2009/c23313e0724317b55b958bbb769284cf_MIT24_06Js09_handout04.pdf
+file: /courses/24-06j-bioethics-spring-2009/c23313e0724317b55b958bbb769284cf_MIT24_06Js09_handout04.pdf
 file_size: 51145
 file_type: application/pdf
 learning_resource_types: []

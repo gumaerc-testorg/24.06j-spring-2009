@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Study guide for a reading assignment on maternal obligations.
-file: /ol-ocw-studio-app/courses/24-06j-bioethics-spring-2009/fea4aac2cd8bfe61e1b2b7c167a98ad7_MIT24_06Js09_study11.pdf
+file: /courses/24-06j-bioethics-spring-2009/fea4aac2cd8bfe61e1b2b7c167a98ad7_MIT24_06Js09_study11.pdf
 file_size: 63504
 file_type: application/pdf
 learning_resource_types: []
