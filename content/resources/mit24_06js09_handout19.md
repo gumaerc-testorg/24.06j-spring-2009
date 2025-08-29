@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handout summarizing key lecture topics on hedonic utilitarianism.
-file: /courses/24-06j-bioethics-spring-2009/c88517462f3a712727adcb03411ad6d9_MIT24_06Js09_handout19.pdf
+file: /ol-ocw-studio-app/courses/24-06j-bioethics-spring-2009/c88517462f3a712727adcb03411ad6d9_MIT24_06Js09_handout19.pdf
 file_size: 54794
 file_type: application/pdf
 learning_resource_types: []
